@@ -1,0 +1,22 @@
+#wrapper {
+    width:950px;
+    height:auto;
+    padding: 13px;
+    margin-right:auto;
+    margin-left:auto;
+    background-color: #f44336;
+    border-radius: 10px;
+}
+
+#submitbtn{
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  border-radius: 5px;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
